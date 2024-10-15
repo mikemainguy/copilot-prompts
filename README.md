@@ -4,7 +4,8 @@ as a starting point to generate code snippets, documentation, and more.
 Feel free to submit PR with your own prompts.
 
 ## Instructions
-Find an existing file that is close to your intended prompt and add your prompt to that file.
++ Branch this repo with a name that generally explains what sort of prompts you're adding/modifying.
++ Find an existing file that is close to your intended prompt and add your prompt to that file.
 If you can't find a file that is close to your intended prompt, create a new file and add your prompt there.
 
 Format your documentation as follows:
@@ -23,4 +24,7 @@ Output
 whatever the output is
 ```text
 ```
+
++ commit your changes and submit a PR.
++ Profit! (just kidding, there's no money involved here, just fame and fortune)
 
