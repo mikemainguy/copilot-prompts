@@ -1,7 +1,9 @@
 # Generate Swagger/Openapi Docs
 Collection of prompts to generate swagger docs from undocumented
 apis.  Broken down by framework.
-
+# Contributors:
+- mike.mainguy@gmail.com
+- 
 ##Rails
 ```text
 create a yaml file in openai3 format that describes the methods and signatures 

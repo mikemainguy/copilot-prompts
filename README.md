@@ -12,6 +12,8 @@ Format your documentation as follows:
 ```markdown
 # Generate Swagger/Openapi Docs
 Name of the prompt and what it does.
+# Contributors: 
+Your Name/email address
 
 ##Level two detail (if for example it might be used in multiple frameworks/contexts)
 ```text
