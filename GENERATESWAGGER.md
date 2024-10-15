@@ -15,7 +15,7 @@ endpoints in the description. Format list of tables like the following
   or descriptions
 ```
 ### Examples
-#### Example Repo [https://github.com/gitlabhq/gitlabhq]()
+#### Example Repo [https://github.com/gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)
 Output
 ```openapi
 openapi: 3.0.0
