@@ -6,7 +6,7 @@ apis.  Broken down by framework.
 - 
 ##Rails
 ```text
-create a yaml file in openai3 format that describes the methods and signatures 
+create a yaml file in openapi3 format that describes the methods and signatures 
 of all of the controllers in the the contollers/dashboard directory 
 (include application, groups, labels, milestones, projects, snippets, and todos) 
 assume hosts are https://api.example.com and https://staging.example.com 
